@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sSpine",
-    "path": "sprites/sSpine/sSpine.yy",
+    "name": "sVine",
+    "path": "sprites/sVine/sVine.yy",
   },
   "solid": false,
   "visible": true,
@@ -32,7 +32,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oSpineFluid",
+  "name": "oVine",
   "tags": [],
   "resourceType": "GMObject",
 }

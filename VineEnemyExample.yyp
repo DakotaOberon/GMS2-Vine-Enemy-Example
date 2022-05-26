@@ -1,7 +1,7 @@
 {
   "resources": [
-    {"id":{"name":"oSpineFluid","path":"objects/oSpineFluid/oSpineFluid.yy",},"order":1,},
-    {"id":{"name":"sSpine","path":"sprites/sSpine/sSpine.yy",},"order":0,},
+    {"id":{"name":"oVine","path":"objects/oVine/oVine.yy",},"order":1,},
+    {"id":{"name":"sVine","path":"sprites/sVine/sVine.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [

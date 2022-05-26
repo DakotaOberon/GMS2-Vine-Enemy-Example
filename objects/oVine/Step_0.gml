@@ -45,7 +45,7 @@ if (child != noone) {
 	next_y = y + lengthdir_y(sprite_width, image_angle);
 
 	// Create a child spine object
-	child = instance_create_layer(next_x, next_y, layer, oSpineFluid);
+	child = instance_create_layer(next_x, next_y, layer, oVine);
 
 	// Set parent
 	child.parent = self;
