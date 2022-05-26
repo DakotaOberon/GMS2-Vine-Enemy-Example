@@ -17,5 +17,6 @@ max_rotation = 10;
 next_x = x + lengthdir_x(sprite_width, image_angle);
 next_y = y + lengthdir_y(sprite_width, image_angle);
 
-alarm[0] = 1;
+// Added for fun
+image_blend = make_color_hsv(irandom(255), 255, 255);
 
